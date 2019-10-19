@@ -1,0 +1,38 @@
+{
+  "name": "Enter Blog",
+  "short_name": "EnterBlog",
+  "start_url": "https://www.enterblog.xyz/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#01579b",
+  "description": "Hanya sebuah blog tempat menuliskan opini.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s48/eb.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s72/eb.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s96/eb.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s144/eb.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s168/eb.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s192/eb.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-s74b-RKwVmQ/XarTSunJvoI/AAAAAAAAAEo/aIxp4KcxR20XVV_iCJzjMLd8a2wxQ5oUACLcBGAsYHQ/s512/eb.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
